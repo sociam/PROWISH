@@ -1,5 +1,7 @@
 # PROWISH
 
+This repo contains the code and data for our paper `PROWISH: Measuring tracker market concentration'.
+
 ## Android app analysis
 
 This is a pipeline for installing apps from the app store, using an automated UI on an android device, pulling the APKs from the device, and statically analysing them to detect third party libraries and hosts.
